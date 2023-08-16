@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "noEmitOnError": true,
+      "removeComments": false,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": false,
+      "moduleResolution": "node",
+      "target": "es6",
+      "module": "es6",
+      "outDir": "compiled"
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
